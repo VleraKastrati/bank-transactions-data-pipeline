@@ -35,7 +35,7 @@ This project demonstrates an end-to-end data pipeline built using Databricks, Py
 
 ### Gold Layer Results
 
-![Gold Layer](gold_layer.png)
+!(gold_layer.png)
 
 
 
