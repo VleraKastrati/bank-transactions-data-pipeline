@@ -40,14 +40,12 @@ This project demonstrates an end-to-end data pipeline built using Databricks, Py
 
 
 ### SQL Analysis
-
 ![SQL Analysis](screenshots/sql_analysis.png)
 
 ### Job Orchestration
-
 ![Successful Job Graph](screenshots/job_success_graph.png)
 
-![Successful Job Graph](screenshots/job_success_graph.png)
+
 
 ## Outcome
 
