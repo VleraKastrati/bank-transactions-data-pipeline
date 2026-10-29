@@ -35,19 +35,14 @@ This project demonstrates an end-to-end data pipeline built using Databricks, Py
 
 ### Gold Layer Results
 
-![Gold Layer](./screenshots/gold_layer.png)
-
-![SQL Analysis](./screenshots/sql_analysis.png)
-
-![Successful Job Graph](./screenshots/job_success_graph.png)
-
-
-
+![Gold Layer](screenshots/gold_layer.png)
+![SQL Analysis](screenshots/sql_analysis.png)
+![Successful Job Graph](screenshots/job_success_graph.png)
 ### SQL Analysis
-![SQL Analysis](sql_analysis.png)
+
 
 ### Job Orchestration
-![Successful Job Graph](job_success_graph.png)
+
 
 
 
